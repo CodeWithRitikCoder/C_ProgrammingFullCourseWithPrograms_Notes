@@ -1,0 +1,11 @@
+1- gcc -wall -save-temps file_name.c -o exe_file_name -> then hit enter. - This command is used to genereate all processing files in C.
+2- Alt+Shift+DownArrow -> to replicate upper line.
+3- Alt+Shift+UpArrow -> to replicate Down line.
+4- Alt+DownArrow -> to Move a line down side.
+5- Alt+UpArrow -> to Move a line Up side.
+6- Alt+Click,Click -> to create multi line cursor.
+7- Alt+Shift+DragDownAndUp -> to create multi line cursor by drag your cursor Up and Down side.
+8- Ctrl+Alt+N -> to Run Code by using Code Runner extension.
+9- Ctrl+B -> to use hide and unhide Explorer bar.
+10- Alt+B -> to hide and unhide vertical icon bar but it is created by me.
+11- 

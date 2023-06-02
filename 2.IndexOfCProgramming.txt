@@ -1,0 +1,92 @@
+1-> Introduction to C programming language.
+2-> Installaction & configure VS_Code to C programming.
+3-> First program in C programming.
+4-> Basic structure of C program.
+5-> printf() & scanf() function in C programming.
+6-> keywords in C programming.
+7-> Variable & Data type in C programming.
+8-> Operators in C programming.
+    i-> Arithmetic operators -> [+, -, *, /, %].
+    ii-> Logical operators -> [&&, ||, !].
+    iii-> Relational operators -> [==, !=, >, < >=, <=].
+    iv-> Bitwise operators -> [&, |, ^].
+    v-> Assignment operators -> [=, +=, -=, *=, /=, ?:].
+    vi-> Miscellaneous operators -> [sizeof(), &, *, ?:].
+    *-> operators Precedence & Associativity in C programming.
+9-> ExerciseNo.1.
+    *-> write a program to print a table of N number.
+10-> Formate specifiers in C programming.
+11-> Constants in C programming.
+12-> Escape sequence characters in C programming.
+13-> Commands in C progrmming.
+14-> if, if else, if else ladder, nested if else in C programming.
+15-> Switch case statement with nested switch in C programming.
+16-> Loops in C programming.
+    i-> while loop.
+    ii-> do while loop.
+    iii-> for loop.
+17-> Break statement in C programming.
+18-> Continue statement in C programming.
+19-> Goto statement in C programming.
+20-> Type Casting in C programming.
+21-> Function in C programming.
+22-> Recursion in C programming.
+23-> ExerciseNo.2.
+    *-> write a program to Conversion -. kms to miles.
+                                         inches to foot.
+                                         cms to inches.
+                                         inches to meters.
+24-> Arrays in C programming.
+25-> ExerciseNo.3.
+    *-> write a program to Print Nth term of fibonacci series.
+26-> Pointers in C programming.
+    *-> and what is (*, &) operatos with pointers.
+    *-> and what is NULL pointer.
+27-> Pointer Arithmetic in C programming.
+    *-> by using (++, --, +, -) operators.
+29-> Array and pointer in C programming.
+30-> Function call by value in C programming.
+31-> Function call by reference in C programming.
+32-> Passing Array to Function in C programming.
+    i-> By declaring array as a prarmeter in the function.
+    ii-> By passing array's base address to the function.
+33-> ExerciseNo.4.
+    *-> write a program to Print the following star pattern in C programming.
+34-> String in C programming.
+35-> String functions in C programming.
+36-> ExerciseNo.5.
+    *-> write a program to print reversal of an array.
+37-> ExerciseNo.5_UsingSecondMethod.
+    *-> write a program to print reversal of an array.
+38-> Structure in C programming.
+39-> Typedef keyword in C programming.
+40-> Typedef keyword with structure in C programming.
+41-> Unions in C programming.
+42-> ExerciseNo.6.
+    *-> write a program to Print HTML parse.
+        *-> Like "<h1> This is my heading <h1>" this to "This is my heading"
+43-> Scope, Local variable and Global variable in C programming.
+44-> Static variable in C programming.
+45-> Dynamic Memroy Allocation in C programming.
+46-> Dynamic Memroy Allocation by using malloc function of DMA.
+47-> Dynamic Memroy Allocation by using calloc function of DMA.
+48-> Dynamic Memroy Allocation by using Realloc function of DMA.
+49-> ExerciseNo.8.
+    *-> Write a program to Dynamic Memory Allocation to store and print 3 employes id with different-different sizes.
+50-> Storage classes in C programming.
+51-> ExerciseNo.9.
+    *-> Write a program to ......
+52-> void Pointer in C programming.
+53-> NULL Pointer in C programming.
+54-> Dangling Pointer in C programming.
+55-> Wild Pointer in C programming.
+56-> ExerciseNo.10.
+    *-> Write a program to ......
+57-> Preprocessor in C programming.
+58-> #include Directive Preprocessor command in C programming.
+59-> #define Preprocessor command in C programming.
+60-> Other Preprocessor command in C programming........
+61-> PreDefined Macros in C programming.
+62-> File handling in C programming.
+63-> File handling data writing into the file in C programming.
+64-> File handling data reading from the file in C programming.
